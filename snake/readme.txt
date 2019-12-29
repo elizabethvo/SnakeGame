@@ -24,31 +24,3 @@ ground music and sound effects.
 
 * Donut.png, sushi.png, milk.png, popsicle.png, and taco.png are image files
 used in the Food class to draw different kinds of food.
- 
-
-
-
- 
-/**********************************************************************
- *  Describe any serious problems you encountered.                    
- **********************************************************************/
-It took a long time to figure out how to use an infinite while loop
-so that the game could be re-playable. Also figuring out the limitations
-of the snake; you need to constantly update and keep track of not only the 
-current direction of the snake, but also the directions that the snake is
-not going in.  
-
-
-
-
-
-
-/**********************************************************************
- *  List any other comments here. Feel free to provide any feedback   
- *  on how much you learned from doing the assignment, and whether    
- *  you enjoyed doing it.                                             
- **********************************************************************/
-Fun assignment, tricky but fulfilling.
- 
- 
- 
